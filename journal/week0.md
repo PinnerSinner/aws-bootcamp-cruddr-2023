@@ -55,3 +55,6 @@ https://lucid.app/lucidchart/a3fef105-c8d9-4f5d-bf0d-fec70103c96b/edit?viewport_
 - I've locked down my admin account with an MFA device, as well as cleaned up any unused access keys for the CLI. 
 -- [![Opera-Snapshot-2023-02-12-172550-us-east-1-console-aws-amazon-com.png](https://i.postimg.cc/Hx0pJ4CT/Opera-Snapshot-2023-02-12-172550-us-east-1-console-aws-amazon-com.png)](https://postimg.cc/BL6WkF6z) 
 -  
+
+ 2) 4Cs considerations 
+[![IMG20230217194828.jpg](https://i.postimg.cc/nrmVfbkq/IMG20230217194828.jpg)](https://postimg.cc/BPqf2zRv)
