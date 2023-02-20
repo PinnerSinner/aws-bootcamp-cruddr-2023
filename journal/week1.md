@@ -44,3 +44,6 @@ Volumes - are like bind mounts in that they are storage accessibel to a containe
 
 # Docker container networking 
 At this level there are 2 modes of docker networkking - host networking & bridge networking. 
+
+Docker storage - Bind mounts. map folders within a container to folder on docker hosts. Named volumes - storage managed by docker which can persist past the lifetime of any single container. 
+
