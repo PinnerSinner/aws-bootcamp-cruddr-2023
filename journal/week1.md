@@ -47,3 +47,10 @@ At this level there are 2 modes of docker networkking - host networking & bridge
 
 Docker storage - Bind mounts. map folders within a container to folder on docker hosts. Named volumes - storage managed by docker which can persist past the lifetime of any single container. 
 
+# Docker compose
+Used to create, manage and clean up multi container apps. Tool which allows managing applications which consist of multiple containers with associated volumes and networking. It reads a docker compose file read in Yaml, read into docker via docker compose, and docker creates updates or deletes resources base don content in that file. resources meaning containers, networking and volumes. 
+Used Docker Compose is software used for defining and running multi-container Docker applications. It can handle multiple containers simultaneously in the production, staging, development, testing, and CI environment. Therefore, use Docker Compose to manage the whole software development lifecycle (SDLC).
+
+Docker Compose works by applying rules defined in a docker compose file.
+
+The YAML file configures the application's services and includes rules specifying how you want them to run. With the file in place, you can start, stop, or rebuild all the services using a single command.
